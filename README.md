@@ -35,8 +35,8 @@ Esse projeto é um CRUD simples feito em C++, focado em gerenciar um cadastro de
 
 ```bash
 g++ main.cpp -o crud
-(só certifique-se de incluir todos os arquivos no comando ou montar um Makefile)
 ```
+(só certifique-se de incluir todos os arquivos no comando ou montar um Makefile)
 2. Rode o programa:
 ```bash
 ./crud
