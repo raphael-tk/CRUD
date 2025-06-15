@@ -1,0 +1,49 @@
+# Arquivos de build
+Debug/
+Release/
+x64/
+x86/
+*.obj
+*.pdb
+*.idb
+*.ilk
+*.aps
+*.ncb
+*.suo
+*.sdf
+*.opensdf
+*.ipch
+*.tlog
+*.log
+*.VC.db
+*.vcxproj.user
+*.vcxproj.filters
+*.exe
+*.dll
+*.lib
+*.exp
+
+# Configurações do usuário
+*.user
+*.userosscache
+*.sln.docstates
+
+# Pasta do Visual Studio
+.vs/
+
+# Arquivos temporários / backups
+*.bak
+*.tmp
+*.swp
+*~
+
+# Outros
+*.cache
+*.db
+*.class
+*.pch
+*.res
+*.manifest
+*.tgz
+*.gz
+*.zip
